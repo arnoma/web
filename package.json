@@ -1,0 +1,19 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "it is a server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "no",
+    "keyword"
+  ],
+  "author": "arno ma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
